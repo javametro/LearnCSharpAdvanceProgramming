@@ -1,0 +1,6 @@
+C:\Users\stephen\Desktop\temp\ConsoleApp1\ConsumerProducer\bin\Debug\ConsumerProducer.exe.config
+C:\Users\stephen\Desktop\temp\ConsoleApp1\ConsumerProducer\bin\Debug\ConsumerProducer.exe
+C:\Users\stephen\Desktop\temp\ConsoleApp1\ConsumerProducer\bin\Debug\ConsumerProducer.pdb
+C:\Users\stephen\Desktop\temp\ConsoleApp1\ConsumerProducer\obj\Debug\ConsumerProducer.csproj.CoreCompileInputs.cache
+C:\Users\stephen\Desktop\temp\ConsoleApp1\ConsumerProducer\obj\Debug\ConsumerProducer.exe
+C:\Users\stephen\Desktop\temp\ConsoleApp1\ConsumerProducer\obj\Debug\ConsumerProducer.pdb
