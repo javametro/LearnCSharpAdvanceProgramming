@@ -1,0 +1,15 @@
+C:\GithubRepository\LearnCSharpAdvanceProgramming\BackupToolSolution\BackupTool\bin\Debug\BackupTool.exe.config
+C:\GithubRepository\LearnCSharpAdvanceProgramming\BackupToolSolution\BackupTool\bin\Debug\BackupTool.exe
+C:\GithubRepository\LearnCSharpAdvanceProgramming\BackupToolSolution\BackupTool\bin\Debug\BackupTool.pdb
+C:\GithubRepository\LearnCSharpAdvanceProgramming\BackupToolSolution\BackupTool\obj\Debug\BackupTool.csprojAssemblyReference.cache
+C:\GithubRepository\LearnCSharpAdvanceProgramming\BackupToolSolution\BackupTool\obj\Debug\MainWindow.g.cs
+C:\GithubRepository\LearnCSharpAdvanceProgramming\BackupToolSolution\BackupTool\obj\Debug\App.g.cs
+C:\GithubRepository\LearnCSharpAdvanceProgramming\BackupToolSolution\BackupTool\obj\Debug\BackupTool_MarkupCompile.cache
+C:\GithubRepository\LearnCSharpAdvanceProgramming\BackupToolSolution\BackupTool\obj\Debug\BackupTool_MarkupCompile.lref
+C:\GithubRepository\LearnCSharpAdvanceProgramming\BackupToolSolution\BackupTool\obj\Debug\MainWindow.baml
+C:\GithubRepository\LearnCSharpAdvanceProgramming\BackupToolSolution\BackupTool\obj\Debug\BackupTool.g.resources
+C:\GithubRepository\LearnCSharpAdvanceProgramming\BackupToolSolution\BackupTool\obj\Debug\BackupTool.Properties.Resources.resources
+C:\GithubRepository\LearnCSharpAdvanceProgramming\BackupToolSolution\BackupTool\obj\Debug\BackupTool.csproj.GenerateResource.cache
+C:\GithubRepository\LearnCSharpAdvanceProgramming\BackupToolSolution\BackupTool\obj\Debug\BackupTool.csproj.CoreCompileInputs.cache
+C:\GithubRepository\LearnCSharpAdvanceProgramming\BackupToolSolution\BackupTool\obj\Debug\BackupTool.exe
+C:\GithubRepository\LearnCSharpAdvanceProgramming\BackupToolSolution\BackupTool\obj\Debug\BackupTool.pdb
