@@ -1,0 +1,6 @@
+C:\GithubRepository\LearnCSharpAdvanceProgramming\TestProject\TestProject\bin\x64\Debug\TestProject.exe.config
+C:\GithubRepository\LearnCSharpAdvanceProgramming\TestProject\TestProject\bin\x64\Debug\TestProject.exe
+C:\GithubRepository\LearnCSharpAdvanceProgramming\TestProject\TestProject\bin\x64\Debug\TestProject.pdb
+C:\GithubRepository\LearnCSharpAdvanceProgramming\TestProject\TestProject\obj\x64\Debug\TestProject.csproj.CoreCompileInputs.cache
+C:\GithubRepository\LearnCSharpAdvanceProgramming\TestProject\TestProject\obj\x64\Debug\TestProject.exe
+C:\GithubRepository\LearnCSharpAdvanceProgramming\TestProject\TestProject\obj\x64\Debug\TestProject.pdb

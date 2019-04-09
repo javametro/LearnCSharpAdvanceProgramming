@@ -1,0 +1,7 @@
+C:\GithubRepository\LearnCSharpAdvanceProgramming\TestProject\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
+C:\GithubRepository\LearnCSharpAdvanceProgramming\TestProject\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+C:\GithubRepository\LearnCSharpAdvanceProgramming\TestProject\TestProject\bin\Debug\TestProject.exe.config
+C:\GithubRepository\LearnCSharpAdvanceProgramming\TestProject\TestProject\bin\Debug\TestProject.exe
+C:\GithubRepository\LearnCSharpAdvanceProgramming\TestProject\TestProject\bin\Debug\TestProject.pdb
+C:\GithubRepository\LearnCSharpAdvanceProgramming\TestProject\TestProject\obj\Debug\TestProject.exe
+C:\GithubRepository\LearnCSharpAdvanceProgramming\TestProject\TestProject\obj\Debug\TestProject.pdb
