@@ -1,0 +1,7 @@
+C:\Users\stephen\Desktop\temp\ConsoleApp1\Testmutex\bin\Debug\Testmutex.exe.config
+C:\Users\stephen\Desktop\temp\ConsoleApp1\Testmutex\bin\Debug\Testmutex.exe
+C:\Users\stephen\Desktop\temp\ConsoleApp1\Testmutex\bin\Debug\Testmutex.pdb
+C:\Users\stephen\Desktop\temp\ConsoleApp1\Testmutex\obj\Debug\Testmutex.csprojAssemblyReference.cache
+C:\Users\stephen\Desktop\temp\ConsoleApp1\Testmutex\obj\Debug\Testmutex.csproj.CoreCompileInputs.cache
+C:\Users\stephen\Desktop\temp\ConsoleApp1\Testmutex\obj\Debug\Testmutex.exe
+C:\Users\stephen\Desktop\temp\ConsoleApp1\Testmutex\obj\Debug\Testmutex.pdb

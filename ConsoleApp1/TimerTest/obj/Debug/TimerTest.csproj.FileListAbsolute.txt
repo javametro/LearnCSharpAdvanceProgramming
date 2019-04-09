@@ -1,0 +1,7 @@
+C:\Users\stephen\Desktop\temp\ConsoleApp1\TimerTest\bin\Debug\TimerTest.exe.config
+C:\Users\stephen\Desktop\temp\ConsoleApp1\TimerTest\bin\Debug\TimerTest.exe
+C:\Users\stephen\Desktop\temp\ConsoleApp1\TimerTest\bin\Debug\TimerTest.pdb
+C:\Users\stephen\Desktop\temp\ConsoleApp1\TimerTest\obj\Debug\TimerTest.csprojAssemblyReference.cache
+C:\Users\stephen\Desktop\temp\ConsoleApp1\TimerTest\obj\Debug\TimerTest.csproj.CoreCompileInputs.cache
+C:\Users\stephen\Desktop\temp\ConsoleApp1\TimerTest\obj\Debug\TimerTest.exe
+C:\Users\stephen\Desktop\temp\ConsoleApp1\TimerTest\obj\Debug\TimerTest.pdb
